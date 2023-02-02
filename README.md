@@ -1,2 +1,2 @@
 # RPP-News-classification
-This is a repo for the NLP task assessment
+This is the repo for the NLP task assessment
